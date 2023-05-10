@@ -1,0 +1,52 @@
+header {
+background-color: orange;
+color: #333;
+pading: 20px;
+text-align:center;
+}
+
+div{
+background-color: yellow;	
+}
+
+h1{
+nargin: 0;
+}
+
+main{
+background-color:#AFE1AF;
+}
+
+h2{
+margin-bottom: 20px;
+}
+
+ul{
+list-style: square;
+}
+
+li{
+margin-bottom: 10px;
+}
+
+a{
+color: red;
+text-decoration: none;
+}
+
+section{
+margin-bottom: 60px;
+}
+
+a:hover{
+color: blue;
+background-color: yellow;
+}
+
+article{
+background-color: yellow;
+}
+
+footer{
+background-color: #7CB9E8;
+}
